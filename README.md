@@ -6,7 +6,7 @@
 
 I’m an Automotive Engineering student at the German International University who enjoys building complete systems where mechanical design, electronics, perception, and control software meet.
 
-My portfolio spans ROS 2 autonomy on NVIDIA Jetson, ESP32 and Arduino firmware, MATLAB control modeling, power electronics, computer vision, mechanical CAD, and automotive software validation.
+My portfolio spans ROS 2 autonomy centered on the NVIDIA Jetson Orin Nano, Raspberry Pi and ESP32 integration, Arduino firmware, MATLAB control modeling, power electronics, computer vision, mechanical CAD, and automotive software validation.
 
 ## 💻 Languages and test automation
 
@@ -35,7 +35,8 @@ Python, C++/Arduino, and MATLAB are present in the public project source. YAML a
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
+  <img src="https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson Orin Nano" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Simulink-F47B20?style=flat-square" alt="Simulink" />
   <img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat-square" alt="Proteus" />
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square" alt="SolidWorks" />
@@ -45,9 +46,9 @@ Python, C++/Arduino, and MATLAB are present in the public project source. YAML a
 
 ## 🧠 Skills demonstrated by these projects
 
-- **Robotics and autonomy:** ROS 2 nodes, publish/subscribe architecture, OpenCV lane perception, finite-state behavior planning, obstacle and blind-spot handling, and Jetson camera pipelines.
+- **Robotics and autonomy:** NVIDIA Jetson Orin Nano as the primary onboard AI/ROS 2 computer, with OpenCV lane perception, finite-state behavior planning, obstacle and blind-spot handling, and camera pipelines.
 - **Control engineering:** PID and PI control, pure-pursuit steering, feedforward control, actuator saturation, anti-windup, disturbance rejection, and response-metric analysis.
-- **Embedded systems:** ESP32 and Arduino firmware, PWM and ADC handling, motor/servo/pump control, sensor integration, Wi-Fi TCP, GPS/GSM paths, safety interlocks, and watchdog logic.
+- **Embedded systems:** Integration of Jetson Orin Nano, Raspberry Pi, and ESP32 hardware; Arduino firmware; PWM and ADC handling; motor/servo/pump control; sensor integration; Wi-Fi TCP; GPS/GSM paths; safety interlocks; and watchdog logic.
 - **Power electronics:** CC–CV charging, buck-converter control, voltage/current sensing, PWM regulation, and Simulink/Proteus prototyping.
 - **Mechanical engineering:** SolidWorks parts and assemblies, parametric CadQuery modeling, STEP/STL workflows, drivetrain sizing, gear and bearing checks, motion analysis, and FEA-informed verification.
 - **Engineering validation:** Python simulation harnesses, scenario-based testing, CSV data generation, plots, performance metrics, technical reports, and clear documentation of limitations.
@@ -57,7 +58,7 @@ Python, C++/Arduino, and MATLAB are present in the public project source. YAML a
 
 | Project | What it demonstrates |
 | --- | --- |
-| [🚗 Driver-Awareness Emergency-Response Vehicle](https://github.com/hadidyy/driver-awareness-emergency-response) | ROS 2, OpenCV lane perception, behavior planning, PID/pure-pursuit control, ESP32 safety firmware, Jetson deployment, and parametric vehicle CAD |
+| [🚗 Driver-Awareness Emergency-Response Vehicle](https://github.com/hadidyy/driver-awareness-emergency-response) | NVIDIA Jetson Orin Nano as the primary AI/ROS 2 computer, integrated with Raspberry Pi and ESP32 hardware for perception, planning, safety monitoring, and low-level vehicle control |
 | [📈 Vehicle Powertrain PID Control](https://github.com/hadidyy/vehicle-powertrain-pid-control) | Reproducible MATLAB/Python models for idle speed, ignition timing, and AFR control with disturbance tests and performance metrics |
 | [💧 Automatic Water Dispenser](https://github.com/hadidyy/automatic-water-dispenser) | Arduino control, sensor integration, pump calibration, Proteus simulation, and SolidWorks enclosure design |
 | [🔋 CC–CV Battery Charger](https://github.com/hadidyy/cc-cv-battery-charger) | Buck-converter modeling, PI control, battery-charging logic, Simulink, Proteus, and embedded firmware |
