@@ -6,18 +6,20 @@
 
 I’m an Automotive Engineering student at the German International University who enjoys building complete systems where mechanical design, electronics, perception, and control software meet.
 
-My portfolio spans ROS 2 autonomy on NVIDIA Jetson, ESP32 and Arduino firmware, MATLAB control modeling, power electronics, computer vision, and mechanical CAD.
+My portfolio spans ROS 2 autonomy on NVIDIA Jetson, ESP32 and Arduino firmware, MATLAB control modeling, power electronics, computer vision, mechanical CAD, and automotive software validation.
 
-## 💻 Languages used in my code
+## 💻 Languages and test automation
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Robot_Framework-00C0B5?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
 </p>
 
-These are the programming languages present in the public project source. YAML and XML are also used for ROS 2 configuration and package metadata.
+Python, C++/Arduino, and MATLAB are present in the public project source. YAML and XML are also used for ROS 2 configuration and package metadata. I used **Java and Robot Framework** for automated automotive software validation during my Valeo internship.
 
 | Project | Programming languages | Supporting formats and models |
 | --- | --- | --- |
@@ -49,6 +51,7 @@ These are the programming languages present in the public project source. YAML a
 - **Power electronics:** CC–CV charging, buck-converter control, voltage/current sensing, PWM regulation, and Simulink/Proteus prototyping.
 - **Mechanical engineering:** SolidWorks parts and assemblies, parametric CadQuery modeling, STEP/STL workflows, drivetrain sizing, gear and bearing checks, motion analysis, and FEA-informed verification.
 - **Engineering validation:** Python simulation harnesses, scenario-based testing, CSV data generation, plots, performance metrics, technical reports, and clear documentation of limitations.
+- **Automotive software validation:** Requirements-based test design and execution, Robot Framework automation with Java, result analysis, test documentation, and defect investigation gained while validating headlight software during my Valeo internship.
 
 ## 🚀 Featured projects
 
