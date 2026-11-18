@@ -27,6 +27,7 @@ Python, C++/Arduino, and MATLAB are present in the public project source. YAML a
 | [Vehicle Powertrain PID Control](https://github.com/hadidyy/vehicle-powertrain-pid-control) | MATLAB, Python | CSV results and generated plots |
 | [Automatic Water Dispenser](https://github.com/hadidyy/automatic-water-dispenser) | C++/Arduino | Proteus and SolidWorks files |
 | [CC–CV Battery Charger](https://github.com/hadidyy/cc-cv-battery-charger) | C++/Arduino | Simulink and Proteus files |
+| [Stepped Shaft Torsion Analysis](https://github.com/hadidyy/stepped-shaft-torsion-analysis) | — Engineering analysis project | SolidWorks, FEA, and analytical calculations |
 | [Conveyor Belt System](https://github.com/hadidyy/conveyor-belt-system) | — Mechanical/CAD project | SolidWorks parts and engineering calculations |
 
 ## 🧰 Engineering toolkit
@@ -62,12 +63,14 @@ Python, C++/Arduino, and MATLAB are present in the public project source. YAML a
 | [📈 Vehicle Powertrain PID Control](https://github.com/hadidyy/vehicle-powertrain-pid-control) | Reproducible MATLAB/Python models for idle speed, ignition timing, and AFR control with disturbance tests and performance metrics |
 | [💧 Automatic Water Dispenser](https://github.com/hadidyy/automatic-water-dispenser) | Arduino control, sensor integration, pump calibration, Proteus simulation, and SolidWorks enclosure design |
 | [🔋 CC–CV Battery Charger](https://github.com/hadidyy/cc-cv-battery-charger) | Buck-converter modeling, PI control, battery-charging logic, Simulink, Proteus, and embedded firmware |
+| [🧱 Stepped Shaft Torsion Analysis](https://github.com/hadidyy/stepped-shaft-torsion-analysis) | SolidWorks CAD, classical torsion calculations, fillet stress-concentration analysis, mesh refinement, and FEA validation within 4% |
 | [⚙️ Conveyor Belt System](https://github.com/hadidyy/conveyor-belt-system) | Machine-element selection, drivetrain calculations, bearing checks, SolidWorks assembly design, and FEA-informed verification |
 
 ## ✅ Selected results
 
 - Validated the driver-awareness software across 15 scenarios with **63/63 automated assertions**.
 - Built reproducible idle-speed, ignition-timing, and AFR controller studies with generated time-series data and performance metrics.
+- Matched stepped-shaft FEA results to analytical torsion calculations within **3.7% for maximum shear stress** and **3.3% for angle of twist**.
 - Carried projects from system calculations through firmware, simulation, validation, and mechanical packaging.
 
 ## 🎯 Career interests
